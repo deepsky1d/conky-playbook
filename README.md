@@ -48,7 +48,7 @@ To execute this setup, the following prerequisites are required:
 
  - Run playbook to install conky
    
- `ansible-playbook conky-playbook.yml`
+    `ansible-playbook conky-playbook.yml`
 
 ## Reference 
 
