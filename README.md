@@ -31,7 +31,7 @@ To execute this setup, the following prerequisites are required:
  - [ ] **Run Ansible playbook** 
  
 
- - Clone the git repo from here https://github.com/rupeshshewalkar/ansible-conky.git 
+ - Clone the git repo from here https://github.com/rupeshshewalkar/conky.git
  - Create python virtual environment inside ansible-conky folder
  
 
