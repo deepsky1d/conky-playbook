@@ -1,7 +1,7 @@
  
-# Ansible role for conky on AlmaLinux/Redhat
+# Ansible playbook for conky on AlmaLinux/Redhat
 
-This Ansible role is designed to test Conky on AlmaLinux/Redhat systems. By utilizing this role, Conky is enabled for all users on the system.
+This Ansible playbook is designed to test Conky on AlmaLinux/Redhat systems. By utilizing this role, Conky is enabled for all users on the system.
 
 
 # prerequisites
@@ -48,7 +48,7 @@ To execute this setup, the following prerequisites are required:
 
  - Run playbook to install conky
    
- `ansible-playbook -i inventories/conky/ playbooks/conky.yml `
+ `ansible-playbook conky-playbook.yml`
 
 ## Reference 
 
