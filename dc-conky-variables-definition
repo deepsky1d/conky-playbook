@@ -1,5 +1,7 @@
-Source: https://conky.sourceforge.net/config_settings.html
-
+Source: 
+https://conky.sourceforge.net/config_settings.html
+https://conky.sourceforge.net/variables.html
+=========================================
 Variable	Explanation
 TEXT	After this begins text to be formatted on screen. Backslash (\) escapes newlines in the text section. This can be useful for cleaning up config files where conky is used to pipe input to dzen2.
 alignment	Aligned position on screen, may be top_left, top_right, top_middle, bottom_left, bottom_right, bottom_middle, middle_left, middle_middle, middle_right, or none (also can be abreviated as tl, tr, tm, bl, br, bm, ml, mm, mr). See also gap_x and gap_y.
